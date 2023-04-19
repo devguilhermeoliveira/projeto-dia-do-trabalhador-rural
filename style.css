@@ -6,7 +6,6 @@ body {
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
-
 }
 
 h1 {
@@ -22,8 +21,13 @@ p {
 div#origem {
     background-color: rgba(255, 255, 255, 0.438);
     border-radius: 20px;
-    padding: 1%;
-    margin: 20px;
+    margin: auto;
+    width: auto;
+    padding: 0px 20px;
+}
+
+div > p#origemdois {
+    font-size: 40px;
 }
 
 h2 {

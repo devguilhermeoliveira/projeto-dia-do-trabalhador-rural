@@ -51,3 +51,9 @@ div#homenagens > p#p1 {
     font-size: medium;
 }
 
+div > h1#fundo {
+    background-color: rgb(255, 255, 255)  ;
+    border-radius: 10px;
+    padding: 30px 30px;
+    border: 1px solid black;
+}

@@ -36,6 +36,8 @@ div#homenagens {
 }
 
 div > img {
+    height: 600px;
+    width: auto;
     border: 1px solid black;
     display: block;
     margin: 0 auto;
